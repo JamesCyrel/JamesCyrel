@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Jinwoo (JamesCyrel)  
+### 🚀 Learning & Exploring  
 
-<!--
-**JamesCyrel/JamesCyrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JamesCyrel · he/him**  
+Passionate about technology, AI, and software development. Currently diving into deep learning, computer vision, and full-stack development.  
 
-Here are some ideas to get you started:
+### 🔥 What I'm Working On  
+- 🎓 Studying BSIT at Bukidnon State University  
+- 🤖 Exploring YOLOv8 and CNN for AI-driven projects  
+- 🌐 Building web apps using MERN & Laravel  
+- 📱 Developing Android apps with Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Skills & Tech Stack  
+- **Languages:** JavaScript, Python, PHP, Java  
+- **Web Development:** React, Laravel, Express, Node.js  
+- **AI/ML:** YOLOv8, TensorFlow, OpenCV  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, Android Studio, XAMPP  
+
+### 📫 Connect With Me  
+- 🐦 [Twitter](#)  
+- 💼 [LinkedIn](#)  
+- 📧 Email: jamescyrel@example.com  
+
+---
+
+🚀 *Learning every day. Building cool stuff. Sharing knowledge.*  
