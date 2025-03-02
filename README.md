@@ -56,7 +56,7 @@ Passionate about technology, AI, and software development. Currently diving into
 ### 📫 Connect With Me  
 - 🐦 [Twitter](#)  
 - 💼 [LinkedIn](#)  
-- 📧 Email: jamescyrel@example.com  
+- 📧 Email: 2201106737@student.buksu.edu.ph
 
 ---
 
