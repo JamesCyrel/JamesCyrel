@@ -46,7 +46,8 @@ Passionate about technology, AI, and software development. Currently diving into
 ---
 
 ### ⏳ Time Spent Coding  
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JamesCyrel&theme=radical&layout=compact)](https://wakatime.com/@JamesCyrel)  
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JamesCyrel&theme=radical&layout=compact)](https://wakatime.com/@JamesCyrel)
+
 
 ---
 
