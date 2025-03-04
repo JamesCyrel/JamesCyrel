@@ -39,17 +39,7 @@ Passionate about technology, AI, and software development. Currently diving into
 ---
 
 ### 📊 GitHub Stats & Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesCyrel&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamesCyrel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCyrel&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JamesCyrel&theme=radical)](https://git.io/streak-stats)
 
 ---
 
