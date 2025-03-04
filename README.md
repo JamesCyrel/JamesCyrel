@@ -39,14 +39,20 @@ Passionate about technology, AI, and software development. Currently diving into
 ---
 
 ### 📊 GitHub Stats & Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=JamesCyrel&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCyrel&layout=compact&theme=radical&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JamesCyrel&theme=radical)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCyrel&layout=compact&theme=radical&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+### ⏳ Time Spent Coding  
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JamesCyrel&theme=radical&layout=compact)](https://wakatime.com/@JamesCyrel)  
 
 ---
 
 ### 📫 Connect With Me  
 - 🐦 [Twitter](#)  
-- 📧 Email: 2201106737@student.buksu.edu.ph
+- 📧 Email: 2201106737@student.buksu.edu.ph  
 
 ---
 
